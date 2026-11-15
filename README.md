@@ -1,6 +1,6 @@
 # **Analysis of Public Safety Power Shutoffs in California**
 
-[R](https://www.r-project.org/) code to reproduce the analysis of Public Safety Power Shutoffs (PSPS) referenced in [this Nov. xx, 2026, Inside Climate News article](https://insideclimatenews.org/news/). These shutoffs are implemented under conditions in which sparking from power lines is likely to ignite wildfires.
+[R](https://www.r-project.org/) code to reproduce the analysis of Public Safety Power Shutoffs (PSPS) referenced in[this Nov. 16, 2026, Inside Climate News article](https://insideclimatenews.org/news/16112026/wildfire-legal-actions-against-utilities/). These shutoffs are implemented under conditions in which sparking from power lines is likely to ignite wildfires.
 
 ### **Methodology/code/data**
 
